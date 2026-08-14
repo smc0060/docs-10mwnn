@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-c7jrl6.salamduit.cfd/sitemap.xml
